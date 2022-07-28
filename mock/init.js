@@ -1,0 +1,2 @@
+require("./classMock");
+require("./studentMock");
